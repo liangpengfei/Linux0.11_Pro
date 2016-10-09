@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="linux_0_11_lab_master" targetName="linux_0_11_lab_master" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="731ecf76-d1b6-414f-9ac1-5b276079e70c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstC/FirstC.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TestInline/TestInline.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TimeUdp/TimeUdp.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/deadlock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/mandatory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/mcopy2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/nonblockw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/rot13a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/rot13c2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/datafiles/strftime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/db/libapue_db.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/db/libapue_db.so.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/db/t4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/doatexit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/echoarg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/getrlimit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/hello1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/testjmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/bo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/fifo1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/getlogin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/getpw44bsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/goodexit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/longpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/pendlock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/prtime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/sizepipe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/vfork3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/zombie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/access" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/cdpwd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/changemod" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/devrdev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/filetype" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/ftw8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/mycd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/umask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/unlink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/fileflags" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/hole" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/mycat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/seek" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/getcputc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/hello" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/ls1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/mycat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/shell1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/shell2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/testerror" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/uidgid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/add2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/add2stdio" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/devzero" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/myuclc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/pipe1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/pipe2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/pipe4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/popen1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/popen2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/tshm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/bindunix" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open.fe/openclient" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open/openclient" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend.fe/opend" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/opend.poll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/opend.select" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/pollmsg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/sendmsg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/printer/print" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/printer/printd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/echoall" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/exec1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/exec2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/fork1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/fork2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/nice" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/pracct" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/pruids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/systest1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/systest3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/tellwait1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/tellwait2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/test1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/times1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/vfork1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/wait1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/pty/pty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/relation/orphan3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/critical" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/mask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/read1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/read2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/reenter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/sigtstp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/sigusr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/suspend1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/suspend2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/systest2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/tsleep2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/findsvc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptime-dg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptimed" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptimed-dg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptimed-fd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/options" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/buf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/fgetsfputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/getcharbug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/getcputc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/mkstemp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/tempfiles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/csize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/settty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/t_getpass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/t_isatty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/t_raw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/t_ttyname" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/winch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/atfork" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/suspend" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/badexit2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/cleanup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/exitstatus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/threadid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client/client.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client2/client2.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../echo_tcp/echo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/server.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server2/server2.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFile/testFile.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFopen/testFopen.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../unix/unix.xcodeproj/project.xcworkspace/xcuserdata/fei.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++HomeWork/.idea/C++HomeWork.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++HomeWork/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++HomeWork/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++HomeWork/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++HomeWork/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++HomeWork/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++HomeWork/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/.idea/C++Primer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/Bulk_quote.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/Bulk_quote.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/Quote.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/Quote.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++Primer/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++StlHomeWork/.idea/C++StlHomeWork.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++StlHomeWork/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++StlHomeWork/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++StlHomeWork/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++StlHomeWork/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++StlHomeWork/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../C++StlHomeWork/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstC/FirstC.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstC/FirstC.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstC/FirstC.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/FirstC.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstC/FirstC.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../FirstC/FirstC/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TestInline/TestInline.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TestInline/TestInline.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TestInline/TestInline.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/TestInline.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TestInline/TestInline/MyTest.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TestInline/TestInline/MyTest.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TestInline/TestInline/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TimeUdp/TimeUdp.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TimeUdp/TimeUdp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TimeUdp/TimeUdp.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/TimeUdp.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TimeUdp/TimeUdp/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/.idea/apue.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/DISCLAIMER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/Make.defines.freebsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/Make.defines.linux" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/Make.defines.macos" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/Make.defines.solaris" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/Make.libapue.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/deadlock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/fixup.awk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/lockfile.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/mandatory.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/mcopy2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/nonblockw.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/readn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/rot13a.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/rot13c2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/rot13c2.c.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/writen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/advio/xlate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/daemons/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/daemons/init.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/daemons/reread.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/daemons/reread2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/daemons/single.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/datafiles/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/datafiles/getpwnam.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/datafiles/strftime.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/db/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/db/apue_db.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/db/db.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/db/t4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/cmd1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/cmd2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/doatexit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/echoarg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/getrlimit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/hello1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/opendata.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/scope.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/environ/testjmp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/asyncsocket.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/bo.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/fifo1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/fmemopen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/getlogin.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/getpw44bsd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/getpwsvr4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/goodexit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/longpath.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/openmax.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/pendlock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/pollmsg2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/prtime.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/sizepipe.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/sleep.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/sleepus_poll.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/sleepus_select.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/vfork3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/exercises/zombie.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig1.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig1.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig1.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig1.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig1.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig1.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig1.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig1.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig10.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig11.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig12.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig12.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig12.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig12.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig12.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig12.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig12.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig13.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig13.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig13.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig13.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig13.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.27" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig14.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.33" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.35" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig15.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig16.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.27" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.30" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig17.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig18.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig19.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig19.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig19.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig19.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig19.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig2.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig2.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig2.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig2.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig20.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig3.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig3.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig3.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig3.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig3.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig4.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig5.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig5.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig5.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig5.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig5.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig5.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig6.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig6.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig7.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig7.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig7.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig7.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig7.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig7.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig7.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig7.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.30" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig8.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/fig9.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figB.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figB.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figB.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/figlinks/figC.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/access.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/cdpwd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/changemod.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/devrdev.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/filetype.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/ftw8.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/mycd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/umask.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/unlink.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/filedir/zap.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/fileflags.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/hole.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/mycat.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/seek.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/fileio/setfl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/include/apue.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/getcputc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/hello.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/ls1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/mycat.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/shell1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/shell2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/testerror.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/intro/uidgid.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/add2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/add2stdio.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/devzero.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/myuclc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/pipe1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/pipe2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/pipe4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/popen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/popen1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/popen2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/slock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/slock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/tellwait.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc1/tshm.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/bindunix.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open.fe/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open.fe/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open.fe/open.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open.fe/open.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open/open.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/open/open.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend.fe/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend.fe/cliargs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend.fe/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend.fe/opend.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend.fe/request.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/cliargs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/client.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/loop.poll.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/loop.select.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/opend.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/opend/request.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/pollmsg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/recvfd2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/sendfd2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/ipc2/sendmsg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/Orecvfd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/bufargs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/cliconn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/clrfl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/daemonize.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/error.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/errorlog.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/lockreg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/locktest.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/nspipe.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/openmax.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/pathalloc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/popen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/prexit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/prmask.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/ptyfork.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/ptyopen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/readn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/recvfd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/semaph.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/senderr.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/sendfd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/servaccept.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/servlisten.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/setfd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/setfl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/signal.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/signalintr.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/sleep.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/sleepus.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/spipe.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/strerror.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/tellwait.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/ttymodes.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/lib/writen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/printer/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/printer/ipp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/printer/print.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/printer/print.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/printer/printd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/printer/util.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/awkexample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/echoall.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/exec1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/exec2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/fork1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/fork2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/nice.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/pracct.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/pruids.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/system.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/systest1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/systest3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/tellwait1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/tellwait2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/test1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/times1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/vfork1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/proc/wait1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/pty/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/pty/driver.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/pty/loop.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/pty/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/relation/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/relation/orphan3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/abort.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/child.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/critical.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/mask.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/read1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/read2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/reenter.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/setops.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/sigtstp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/sigusr.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/sleep1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/sleep2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/suspend1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/suspend2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/system.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/systest2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/signals/tsleep2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/clconn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/clconn2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/findsvc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/initsrv1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/initsrv2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptime-dg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptime.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptimed-dg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptimed-fd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/sockets/ruptimed.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/conf.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/conf.c.modified" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/makeconf.awk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/makeopt.awk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/options.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/pathconf-lim.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/pathconf-opt.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/pathconf.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/pathopt.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/sysconf-lim.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/sysconf-opt.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/sysconf.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/standards/sysopt.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/buf.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/fgetsfputs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/getcharbug.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/getcputc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/memstr.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/mkstemp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/stdio/tempfiles.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/systype.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/csize.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/ctermid.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/getpass.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/isatty.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/settty.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/t_getpass.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/t_isatty.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/t_raw.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/t_ttyname.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/ttyname.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/termios/winch.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/atfork.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/detach.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/getenv1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/getenv2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/getenv3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/suspend.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threadctl/timeout.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/badexit2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/barrier.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/cleanup.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/condvar.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/exitstatus.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/maketimeout.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/mutex1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/mutex2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/mutex3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/rwlock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/threadid.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../apue/threads/timedlock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/.idea/c++Test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/Sales_data.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/Sales_data.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/input" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../c++Test/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client/client.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client/client.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client/client.xcodeproj/xcuserdata/fei.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client/client.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/client.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client/client.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client/client/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client2/client2.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client2/client2.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client2/client2.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/client2.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client2/client2.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client2/client2/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_chat/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_chat/.idea/client_chat.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_chat/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_chat/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_chat/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_chat/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_chat/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_chat/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_chat/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_time/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_time/.idea/client_time.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_time/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_time/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_time/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_time/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_time/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../client_time/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/cocos.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos/ViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos/ViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocos/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocosTests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos/cocosTests/cocosTests.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/cocos2.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/Base.lproj/LaunchScreen.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/GameViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/GameViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/Shaders/Shader.fsh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/Shaders/Shader.vsh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2Tests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../cocos2/cocos2Tests/cocos2Tests.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../echo_tcp/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../echo_tcp/.idea/echo_tcp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../echo_tcp/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../echo_tcp/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../echo_tcp/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../echo_tcp/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../echo_tcp/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../echo_tcp/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/page.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/Base.lproj/LaunchScreen.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/DataViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/DataViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/ModelController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/ModelController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/RootViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/RootViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/page/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/pageTests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../page/pageTests/pageTests.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/server.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/server.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server/server/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server2/server2.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server2/server2.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server2/server2.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/server2.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../server2/server2/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFile/testFile.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFile/testFile.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFile/testFile.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/testFile.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFile/testFile/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFile/testFile/server.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFile/testFile/server.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFopen/testFopen.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFopen/testFopen.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFopen/testFopen.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/testFopen.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../testFopen/testFopen/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../unix/unix.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../unix/unix.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../unix/unix.xcodeproj/xcuserdata/fei.xcuserdatad/xcschemes/unix.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../unix/unix/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../unix/unix/operator.h" />
+    </list>
+    <ignored path="linux-0.11-lab-master.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="linux-0.11-lab-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="sched.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kernel/sched.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="202" column="20" selection-start-line="202" selection-start-column="20" selection-end-line="202" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="system.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/asm/system.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/build.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="math_emulate.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kernel/math/math_emulate.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="memory.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mm/memory.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sched.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/include/linux/sched.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+              <folding>
+                <element signature="e#242#319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bochsrc-fdb.bxrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/bochs/bochsrc/bochsrc-fdb.bxrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootsect.s" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boot/bootsect.s">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boot/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/unistd.h" />
+        <option value="$PROJECT_DIR$/init/main.c" />
+        <option value="$PROJECT_DIR$/mm/memory.c" />
+        <option value="$PROJECT_DIR$/kernel/sched.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1405" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux-0.11-lab-master" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux-0.11-lab-master" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux-0.11-lab-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux-0.11-lab-master" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux-0.11-lab-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux-0.11-lab-master" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux-0.11-lab-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux-0.11-lab-master" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linux-0.11-lab-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="task_struct&#9;null&#9;null&#10;do_timer&#9;null&#9;null&#10;sched.&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/kernel/sched.c&#10;current_time&#9;null&#9;null&#10;sched&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/include/linux/sched.h&#10;bootsects&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/boot/bootsect.s&#10;schedu&#9;null&#9;null&#10;do_tim&#9;null&#9;null&#10;include/&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/include&#10;sche.c&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/kernel/sched.c&#10;sche.&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/kernel/sched.c&#10;system_call&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/kernel/system_call.s&#10;sys.h&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/include/linux/sys.h&#10;unis&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/include/unistd.h&#10;sysre&#9;null&#9;null&#10;a.out.h&#9;FILE&#9;file:///Users/fei/Dev/c/linux-0.11-lab-master/include/a.out.h" />
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="linux_0_11_lab_master" TARGET_NAME="linux_0_11_lab_master" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="linux_0_11_lab_master" TARGET_NAME="linux_0_11_lab_master" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="linux-0.11-lab-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="linux-0.11-lab-master" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="linux-0.11-lab-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="linux-0.11-lab-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="linux-0.11-lab-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="linux-0.11-lab-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="linux-0.11-lab-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="linux_0_11_lab_master" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="linux_0_11_lab_master" TARGET_NAME="linux_0_11_lab_master" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="linux_0_11_lab_master" RUN_TARGET_NAME="linux_0_11_lab_master">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.linux_0_11_lab_master" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="731ecf76-d1b6-414f-9ac1-5b276079e70c" name="Default" comment="" />
+      <created>1467647221692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1467647221692</updated>
+      <workItem from="1475934138918" duration="3894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3894000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1405" height="829" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19217081" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8118421" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mm/memory.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/bochs/bochsrc/bochsrc-fdb.bxrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot/bootsect.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot/head.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="128" column="12" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="e#1299#1320#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="20" selection-start-line="28" selection-start-column="17" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ctype.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ctype.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/utime.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mm/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/signal.h" />
+    <entry file="file://$PROJECT_DIR$/kernel/printk.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/fcntl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/signal.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/time.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/sys/utsname.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/sys/stat.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/stat.h" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/sys/cdefs.h" />
+    <entry file="file://$PROJECT_DIR$/include/asm/segment.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/asm/memory.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/asm/io.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/a.out.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="208" column="21" selection-start-line="208" selection-start-column="21" selection-end-line="208" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot/setup.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/linux/mm.h" />
+    <entry file="file://$PROJECT_DIR$/lib/malloc.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fs/read_write.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/install-docker-lab.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot/head.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="115" column="11" selection-start-line="115" selection-start-column="11" selection-end-line="115" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/linux/sys.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="66" column="24" selection-start-line="52" selection-start-column="22" selection-end-line="66" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/unistd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="146" column="16" selection-start-line="146" selection-start-column="9" selection-end-line="146" selection-end-column="16" />
+          <folding>
+            <element signature="e#1299#1320#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernel/system_call.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="143" column="28" selection-start-line="143" selection-start-column="19" selection-end-line="143" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/unistd.h" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/time.h" />
+    <entry file="file://$PROJECT_DIR$/init/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="64" column="53" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk/usr/include/linux/sched.h" />
+    <entry file="file://$PROJECT_DIR$/include/asm/system.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernel/math/math_emulate.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/bochs/bochsrc/bochsrc-fdb.bxrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/build.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot/bootsect.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile.header">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mm/memory.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernel/sched.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="202" column="20" selection-start-line="202" selection-start-column="20" selection-end-line="202" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/linux/sched.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding>
+            <element signature="e#242#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
