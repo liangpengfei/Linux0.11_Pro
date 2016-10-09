@@ -1,4 +1,4 @@
-Linux 0.11 Lab
+Linux 0.11 Lab Pro
 ==============
 
 The old Linux kernel source version 0.11 and the integrated experiment environment.
